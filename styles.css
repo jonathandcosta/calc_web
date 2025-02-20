@@ -17,6 +17,10 @@ body {
   width: 320px;
 }
 
+.calc span {
+  color: #47b5ed;
+}
+
 .display {
   background-color: #222;
   color: #fff;
